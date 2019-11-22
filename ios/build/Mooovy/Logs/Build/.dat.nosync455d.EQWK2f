@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>844B07E4-681C-4081-9F33-208D20925C20</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>844B07E4-681C-4081-9F33-208D20925C20.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mooovy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mooovy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Mooovy with scheme Mooovy and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596116044.64154994</real>
+			<key>timeStoppedRecording</key>
+			<real>596116045.91763103</real>
+			<key>title</key>
+			<string>Building workspace Mooovy with scheme Mooovy and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>844B07E4-681C-4081-9F33-208D20925C20</string>
+		</dict>
+		<key>CAF8BB3F-A414-42A8-9052-8BEEDE94CE76</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CAF8BB3F-A414-42A8-9052-8BEEDE94CE76.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mooovy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mooovy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Mooovy with scheme Mooovy and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596113764.99480605</real>
+			<key>timeStoppedRecording</key>
+			<real>596113769.37049496</real>
+			<key>title</key>
+			<string>Building workspace Mooovy with scheme Mooovy and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CAF8BB3F-A414-42A8-9052-8BEEDE94CE76</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
